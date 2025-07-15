@@ -25,8 +25,16 @@ A curated collection of 100 JavaScript questions categorized by difficulty — *
 > Click on a question to view its solution.
 
 1. [Print "Hello World" to the console.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/01_hello-world.html)
+
 2. [Create a simple function that returns the sum of two numbers.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/02_sumOfTwo.js)
+
 3. [Write a function that takes a number and returns its square.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/03_returnSquare.js)
+
+4. [Create a function that checks if a number is even or odd.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/04_oddEven.js)
+
+5. [Write a program to calculate the factorial of a number.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/05_factorial.js)
+
+6. [Create a loop to print numbers from 1 to 10.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/06_loopToPrint1to100.js)
 
 ---
 
