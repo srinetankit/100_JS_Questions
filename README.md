@@ -36,6 +36,11 @@ A curated collection of 100 JavaScript questions categorized by difficulty — *
 
 6. [Create a loop to print numbers from 1 to 10.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/06_loopToPrint1to100.js)
 
+7. [Write a program that prints the Fibonacci series up to a certain number.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/07_fibonacciSeries.js)
+
+8. [Create a function that converts Celsius to Fahrenheit.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/08_celsiusToFahrenheit.js)
+
+9. [Create a function that checks if a string is a palindrome.](https://github.com/srinetankit/100_JS_Questions/blob/main/basics/09_isPalindrome.js)
 ---
 
 ## 🟡 Intermediate
